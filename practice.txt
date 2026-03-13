@@ -1,3 +1,2 @@
 Hello Practice
 branch作成、移動し、GitHubへの反映を行うために編集します。
-プルリクエストの練習
